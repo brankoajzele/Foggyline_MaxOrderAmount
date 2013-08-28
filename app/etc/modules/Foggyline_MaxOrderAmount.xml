@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Foggyline_MaxOrderAmount>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Foggyline_MaxOrderAmount>
+    </modules>
+</config>
