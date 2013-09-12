@@ -32,7 +32,7 @@
     <default>
         <sales>
             <foggyline_maxorderamount>
-                <active>0  </active>
+                <active>0</active>
                 <single_order_top_amount>200</single_order_top_amount>
                 <single_order_top_amount_msg><![CDATA[No single order allowed with amount over %s.]]></single_order_top_amount_msg>
             </foggyline_maxorderamount> 
